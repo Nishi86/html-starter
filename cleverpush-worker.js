@@ -1,1 +1,1 @@
-importScripts('https://static.cleverpush.com/channel/worker/HkxgXoi5XpNxTcT3P.js' + self.location.search);
+importScripts('https://static.cleverpush.com/channel/worker/zsKod4ggm8r8XzCev.js' + self.location.search);
